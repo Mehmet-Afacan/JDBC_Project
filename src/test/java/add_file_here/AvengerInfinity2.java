@@ -10,5 +10,8 @@ public class AvengerInfinity2 {
 
         //Iron man , hulk and thor
 
+        //Looks like EU3 is not avenger fan?
+        //Justice League fan maybe?
+
     }
 }
