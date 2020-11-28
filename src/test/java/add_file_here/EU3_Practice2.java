@@ -15,5 +15,8 @@ public class EU3_Practice2 {
         //create a pul request
         //to asl original repo owner
         //to merge your change
+
+        //we have one new branch called us123
+        //to work on user story 123 without affecting master
     }
 }
