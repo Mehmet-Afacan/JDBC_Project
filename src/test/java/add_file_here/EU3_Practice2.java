@@ -19,6 +19,6 @@ public class EU3_Practice2 {
         //we have one new branch called us123
         //to work on user story 123 without affecting master
 
-        //adding more changes to seee in the history
+        //adding more changes to see in the history
     }
 }
